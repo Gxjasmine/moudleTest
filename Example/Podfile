@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'mineMoule_Example' do
+  pod 'mineMoule', :path => '../'
+
+  target 'mineMoule_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
