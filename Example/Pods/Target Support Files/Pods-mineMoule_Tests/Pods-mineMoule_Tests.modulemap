@@ -1,0 +1,6 @@
+framework module Pods_mineMoule_Tests {
+  umbrella header "Pods-mineMoule_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

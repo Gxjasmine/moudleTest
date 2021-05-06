@@ -1,0 +1,22 @@
+{
+  "name": "mineMoule",
+  "version": "0.1.0",
+  "summary": "A short description of mineMoule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/648725044@qq.com/mineMoule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "648725044@qq.com": "weifz@imyfone.cn"
+  },
+  "source": {
+    "git": "https://github.com/648725044@qq.com/mineMoule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "mineMoule/Classes/**/*"
+}

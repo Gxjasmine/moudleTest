@@ -7,6 +7,8 @@
 //
 
 #import "MFViewController.h"
+#import "mineMoule-Prefix.pch"
+#import <mineMoule/>
 
 @interface MFViewController ()
 
@@ -18,6 +20,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+
 }
 
 - (void)didReceiveMemoryWarning

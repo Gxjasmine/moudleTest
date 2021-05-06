@@ -1,0 +1,6 @@
+framework module mineMoule {
+  umbrella header "mineMoule-umbrella.h"
+
+  export *
+  module * { export * }
+}

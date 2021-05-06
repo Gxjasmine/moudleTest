@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - mineMoule (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - mineMoule (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  mineMoule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  mineMoule: e8af80070519d79c9d909699e6e70b7102f9c32b
+
+PODFILE CHECKSUM: d134c3f2f5f2f8d4432056e332a783224a8e1dc7
+
+COCOAPODS: 1.10.1
